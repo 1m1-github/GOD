@@ -1,0 +1,1 @@
+module GOD end
